@@ -25,4 +25,4 @@ A wine dataset is provided. The task is to analyze data and build a regression m
 - [Source code can be found on Kaggle](https://www.kaggle.com/abhishekmamidi/introduction-to-regression-complete-analysis)
 
 ### Developer:
-- Mamidi Ratna Abhishek([GitHub](github.com/Abhishekmamidi123), [LinkedIn](https://www.linkedin.com/in/abhishekmamidi/), [Kaggle](https://www.kaggle.com/abhishekmamidi))
+- Mamidi Ratna Abhishek([GitHub](https://github.com/Abhishekmamidi123), [LinkedIn](https://www.linkedin.com/in/abhishekmamidi/), [Kaggle](https://www.kaggle.com/abhishekmamidi))
